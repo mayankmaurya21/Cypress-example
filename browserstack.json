@@ -80,7 +80,7 @@
     "run_settings": {
         "cypress_config_file": "./cypress.json",
         "project_name": "project-name",
-        "build_name": "build-name",
+        "build_name": "BROWSERSTACK_BUILD_NAME",
         "exclude": [],
         "parallels": "Here goes the number of parallels you want to run",
         "npm_dependencies": {},
